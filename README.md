@@ -1,1 +1,2 @@
 # monster-game
+inheritance exercise
